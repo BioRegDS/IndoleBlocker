@@ -1,0 +1,13 @@
+{
+  "training_rows": 37,
+  "unique_training_blockers": 9,
+  "receptors": 10,
+  "library_compounds": 2500,
+  "compound_receptor_predictions": 25000,
+  "training_compounds_in_library": 41,
+  "novel_ranking_compounds": 2459,
+  "ranking_primary_metric": "mean predicted pIC50 across all receptors",
+  "ranking_tiebreaker": "minimum predicted pIC50 across receptors",
+  "pic50_threshold": 4.0,
+  "threshold_equivalent_IC50_uM": 100.0
+}

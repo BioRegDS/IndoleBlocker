@@ -1,8 +1,20 @@
+cd ~/GitHub/IndoleBlocker
+
+cat > .gitignore <<'EOF'
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
 
-# Data
+# Local reproducibility checks
+qc_reproduction/
+
+# Model caches and temporary files
+.cache/
+*.tmp
+*.log
+
+# Data not intended for publication
 data/raw/
 data/large/
 
@@ -12,6 +24,20 @@ data/large/
 # OS
 .DS_Store
 
-# Environment
+# Local environment
 .env
-venv/*~
+.venv/
+venv/
+
+# Local environment exports
+environment_full.yml
+environment_history.yml
+
+# Empty placeholder
+requirements.txt
+EOF
+# Editor backup files
+*~
+
+# QC comparison images
+figures/figure1/Figure1_difference.png

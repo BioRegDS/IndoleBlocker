@@ -1,0 +1,9 @@
+{
+  "input": "data/ifra/ifra_pubchem_raw.csv",
+  "training": "data/Supplementary_Table_S1_curated_patent_OR_antagonist_dataset.csv",
+  "training_sheet": "regression_strict_exact_113",
+  "standardization": "RDKit MolFromSmiles -> FragmentParent -> Normalizer -> MolToSmiles(canonical=True,isomericSmiles=True)",
+  "ecfp_radius": 2,
+  "ecfp_bits": 2048,
+  "note": "Multi-fragment inputs are flagged, not automatically excluded, because FragmentParent matches the model-training standardization pipeline."
+}

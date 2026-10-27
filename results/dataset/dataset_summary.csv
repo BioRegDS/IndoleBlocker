@@ -1,0 +1,8 @@
+metric,value
+n_records,113.0
+n_source_patents,2.0
+n_malodors,6.0
+n_unique_blockers,70.0
+n_IC50,107.0
+n_EC50,6.0
+max_pActivity_abs_diff,8.881784197001252e-16

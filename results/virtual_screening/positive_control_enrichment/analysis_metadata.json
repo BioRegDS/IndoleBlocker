@@ -1,0 +1,10 @@
+{
+  "novel_library_size": 2459,
+  "n_unseen_positive_controls": 4,
+  "n_permutations": 100000,
+  "seed": 42,
+  "primary_test": "one-sided empirical permutation test of mean rank; lower mean rank indicates enrichment near the top",
+  "sampling": "K compounds sampled uniformly without replacement from the novel-only IFRA ranking",
+  "training_compounds_excluded": true,
+  "rank_direction": "1 = best/highest mean predicted pIC50"
+}

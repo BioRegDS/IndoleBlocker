@@ -1,0 +1,8 @@
+positive_control_name,positive_control_type,found_in_ifra_library,is_training_compound,pubchem_cid,pubchem_title,SMILES_std
+alpha-Ionone,primary_indole_control,True,True,5282108.0,Alpha-Ionone,CC(=O)/C=C/C1C(C)=CCCC1(C)C
+Lilial,general_malodor_control,True,False,228987.0,Lilial,CC(C=O)Cc1ccc(C(C)(C)C)cc1
+Bourgeonal,general_malodor_control,True,False,64832.0,Bourgeonal,CC(C)(C)c1ccc(CCC=O)cc1
+Helional,general_malodor_control,True,False,64805.0,"3-(3,4-Methylenedioxyphenyl)-2-methylpropanal",CC(C=O)Cc1ccc2c(c1)OCO2
+Cinnamaldehyde,general_malodor_control,True,False,637511.0,Cinnamaldehyde,O=C/C=C/c1ccccc1
+Citral,general_malodor_control,False,False,,,CC(C)=CCCC(C)=CC=O
+Cashmeran,training_sanity_control,True,True,92292.0,(+-)-Cashmeran,CC1C(C)(C)C2=C(C(=O)CCC2)C1(C)C

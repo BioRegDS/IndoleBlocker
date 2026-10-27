@@ -1,0 +1,2 @@
+estimator,n_permutations,observed_RMSE_antagonist,observed_RMSE_aac,observed_delta_RMSE,observed_n_receptors_improved,null_mean_delta_RMSE,null_median_delta_RMSE,null_sd_delta_RMSE,empirical_p_delta_RMSE,empirical_p_RMSE_aac,empirical_p_n_receptors_improved
+gbr,1000,0.6038122044738955,0.3505730405514828,-0.2532391639224127,10,0.0564525890652397,0.06965340633377681,0.10761804883862465,0.000999000999000999,0.000999000999000999,0.00999000999000999

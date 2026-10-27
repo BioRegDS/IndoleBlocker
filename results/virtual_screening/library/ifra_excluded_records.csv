@@ -1,0 +1,1 @@
+pubchem_cid,molecular_formula,molecular_weight,smiles,connectivity_smiles,inchikey,pubchem_title,input_SMILES,n_input_fragments,was_multifragment_input,SMILES_std,rdkit_valid,MW_rdkit_std,ecfp4_valid,passes_mw_filter,curation_eligible,exclusion_reason

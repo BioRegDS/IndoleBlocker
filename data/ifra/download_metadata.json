@@ -1,0 +1,10 @@
+{
+  "route": "PUG-View annotations by heading/source -> linked CID -> PUG-REST properties",
+  "pubchem_source_page_reference": 26581,
+  "heading": "Fragrances",
+  "source": "International Fragrance Association (IFRA)",
+  "total_pages": 4,
+  "n_unique_linked_cids": 2514,
+  "n_property_rows": 2514,
+  "rdkit_standardization_applied": false
+}

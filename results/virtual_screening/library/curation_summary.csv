@@ -1,0 +1,11 @@
+metric,value
+input_records,2514
+rdkit_valid,2514
+ecfp4_valid,2514
+multifragment_inputs,65
+curation_eligible_records,2514
+unique_standardized_structures,2500
+duplicate_records_beyond_first,14
+training_compounds_in_final_library,41
+positive_controls_found,6
+novel_ranking_candidates,2459

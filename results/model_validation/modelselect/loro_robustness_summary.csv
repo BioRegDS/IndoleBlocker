@@ -1,0 +1,5 @@
+estimator,esm2_better_than_antagonist_n,esm2_better_than_onehot_n,n_receptors,median_delta_RMSE_esm2_vs_antagonist,median_delta_RMSE_esm2_vs_onehot
+rf,9,8,10,-0.0681127184192517,-0.07429676483510692
+svr,10,10,10,-0.10701459671424873,-0.07354068382683465
+ridge,5,4,10,0.027460396496887363,0.01686526600130442
+gbr,7,5,10,-0.06381790353291554,-0.0061289353931840845
